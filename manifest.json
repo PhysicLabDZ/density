@@ -1,0 +1,26 @@
+{
+  "name": "الكتلة الحجمية للسوائل",
+  "short_name": "كثافة السوائل",
+  "description": "محاكاة الكتلة الحجمية للسوائل – PhysicLabDZ",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#4a9fd0",
+  "theme_color": "#4a9fd0",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
